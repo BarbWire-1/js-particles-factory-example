@@ -4,8 +4,8 @@ import {ParticlesFactory} from 'js-particles-factory'
 const myParticles = new ParticlesFactory({ particle: { randomFill: false } });
 
 
-// Test setting properties
+// test method
 myParticles.setFillMode("random")
 
-//set proerties and methods
+//see properties and methods
 console.log(myParticles);
