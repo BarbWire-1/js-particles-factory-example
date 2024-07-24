@@ -1,4 +1,4 @@
-##example use and initialistaion of the js-particles-factory module
+## Example use and initialistaion of the js-particles-factory module
 
 ---
 
