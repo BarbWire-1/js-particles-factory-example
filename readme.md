@@ -4,14 +4,19 @@
 
 vite bundler - to run it:
 
-###PNPM
+### PNPM
 ```
 $pnpm vite
 $pnpm vite build
 ```
 
-###PNPM
+### PNPM
 ```
 $npm run dev
 $pnpm run build
+```
+
+To install the module in your own project:
+```js
+npm install js-particles-factory
 ```
