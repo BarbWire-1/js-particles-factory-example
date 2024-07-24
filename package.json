@@ -7,13 +7,16 @@
     "build": "vite build",
     "dev": "vite"
   },
-  "keywords": ["example", "js-particles-factory"],
+  "keywords": [
+    "example",
+    "js-particles-factory"
+  ],
   "author": "Barbara Kälin aka BarbWire",
   "license": "ISC",
   "dependencies": {
-    "vite": "^5.3.4"
+    "js-particles-factory": "^1.0.2"
   },
   "devDependencies": {
-    "js-particles-factory": "^1.0.2"
+    "vite": "^5.3.4"
   }
 }
