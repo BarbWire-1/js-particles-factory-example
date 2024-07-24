@@ -10,7 +10,7 @@ $pnpm vite
 $pnpm vite build
 ```
 
-### PNPM
+### NPM
 ```
 $npm run dev
 $pnpm run build
