@@ -1,7 +1,7 @@
 ## Example use and initialistaion of the js-particles-factory module
 
 
-![github icon](./public/images/iconmonstr-github-1.svg)  [js-particles-factory](https://github.com/BarbWire-1/js-particles-factory.git)
+[js-particles-factory](https://github.com/BarbWire-1/js-particles-factory.git)
 
 ---
 
